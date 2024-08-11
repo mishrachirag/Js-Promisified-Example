@@ -1,0 +1,1 @@
+Text file data read using fs.readFile.
